@@ -1,2 +1,2 @@
 # java-teste2
-Teste para github apartir so eclipse
+Teste para github apartir do eclipse
